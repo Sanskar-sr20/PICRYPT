@@ -1,0 +1,9 @@
+kivy
+pillow
+pycryptodome
+pytest
+jpeglib
+numpy
+pypdf
+pymupdf
+av
